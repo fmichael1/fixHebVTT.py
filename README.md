@@ -1,4 +1,4 @@
-# fixHebVTT.py: Hebrew Subtitles RTL Fixer
+# fixHebVTT.py
 
 `fixHebVTT.py` is a Python utility designed to address Right-to-Left (RTL) text direction issues in Hebrew subtitles within WebVTT (.vtt) files. This script automates the correction of common RTL formatting problems, ensuring proper display and readability of Hebrew subtitles.
 
